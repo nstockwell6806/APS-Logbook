@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Candidate Bios}{3}
+\contentsline {section}{\numberline {2}Articles}{4}
+\contentsline {subsection}{\numberline {2.1}September}{4}
+\contentsline {subsection}{\numberline {2.2}October}{4}
+\contentsline {subsubsection}{\numberline {2.2.1}October I}{4}
+\contentsline {subsubsection}{\numberline {2.2.2}October II}{4}
+\contentsline {subsection}{\numberline {2.3}November}{4}
+\contentsline {section}{\numberline {3}Fourier Analysis}{5}
+\contentsline {paragraph}{Why Fourier?}{5}
+\contentsline {subsection}{\numberline {3.1}Clinton}{6}
+\contentsline {paragraph}{Analysis}{6}
+\contentsline {subsection}{\numberline {3.2}Trump}{8}
+\contentsline {paragraph}{Analysis}{8}
+\contentsline {section}{\numberline {4}Polls}{10}
+\contentsline {section}{\numberline {5}Political Cartoons}{10}
+\contentsline {section}{\numberline {6}Wisconsin State Journal Endorsements}{10}
+\contentsline {subsection}{\numberline {6.1}President}{10}
+\contentsline {subsection}{\numberline {6.2}Senate}{10}
+\contentsline {subsection}{\numberline {6.3}House}{10}
+\contentsline {section}{\numberline {7}My Endorsements}{10}
+\contentsline {subsection}{\numberline {7.1}President}{10}
+\contentsline {subsection}{\numberline {7.2}Senate}{10}
+\contentsline {subsection}{\numberline {7.3}House}{10}
+\contentsline {section}{\numberline {8}Election Results}{10}
+\contentsline {section}{\numberline {9}Advice}{10}
