@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 NOV 2016 21:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 NOV 2016 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -835,6 +835,142 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/datatool/datapie.sty
+Package: datapie 2016/01/18 v2.25 (NLCT)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks41
+\XKV@tempa@toks=\toks42
+)
+\XKV@depth=\count134
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/datatool/datatool.sty
+Package: datatool 2016/01/18 v2.25 (NLCT)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count135
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count136
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2016/01/18 v2.25 (NLCT)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2016/01/18 v2.25 (NLCT)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count137
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count138
+\FP@xia=\count139
+\FP@xib=\count140
+\FP@xfa=\count141
+\FP@xfb=\count142
+\FP@rega=\count143
+\FP@regb=\count144
+\FP@regs=\count145
+\FP@times=\count146
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count147
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks43
+\@dtl@tmpcount=\count148
+\dtl@tmplength=\skip59
+\dtl@sortresult=\count149
+\@dtl@numgrpsepcount=\count150
+\@dtl@datatype=\count151
+\dtl@codeA=\count152
+\dtl@codeB=\count153
+\@dtl@foreach@level=\count154
+)
+\dtlcolumnnum=\count155
+\dtlrownum=\count156
+\@dtl@before=\toks44
+\@dtl@after=\toks45
+\@dtl@colhead=\toks46
+\dtlcurrentrow=\toks47
+\dtlbeforerow=\toks48
+\dtlafterrow=\toks49
+\dtlforeachlevel=\count157
+\c@DTLrowi=\count158
+\c@DTLrowii=\count159
+\c@DTLrowiii=\count160
+\c@DTLrow=\count161
+\dtl@rowi=\count162
+\dtl@rowii=\count163
+\dtl@rowiii=\count164
+\@dtl@curi=\toks50
+\@dtl@previ=\toks51
+\@dtl@nexti=\toks52
+\@dtl@curii=\toks53
+\@dtl@previi=\toks54
+\@dtl@nextii=\toks55
+\@dtl@curiii=\toks56
+\@dtl@previii=\toks57
+\@dtl@nextiii=\toks58
+\@dtl@elements=\count165
+\@dtl@list=\toks59
+\@dtl@rowa=\toks60
+\@dtl@rowb=\toks61
+\@dtl@toksA=\toks62
+\@dtl@toksB=\toks63
+\@dtl@write=\write4
+\@dtl@read=\read2
+\dtl@entrycr=\count166
+\dtl@omitlines=\count167
+)
+\DTLradius=\skip60
+\dtl@inneroffset=\skip61
+\dtl@outeroffset=\skip62
+\dtl@cutawayoffset=\skip63
+\c@DTLpieroundvar=\count168
+\DTLpieoutlinewidth=\skip64
+\@dtl@seg=\count169
+)
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryfadings.code.tex
 File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
@@ -842,21 +978,34 @@ File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings
 .code.tex
 File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
-)) (./Logbook.aux)
+))
+
+LaTeX Warning: File `september.csv' already exists on the system.
+               Not generating it from this source.
+
+
+LaTeX Warning: File `octoberone.csv' already exists on the system.
+               Not generating it from this source.
+
+
+LaTeX Warning: File `octobertwo.csv' already exists on the system.
+               Not generating it from this source.
+
+(./Logbook.aux)
 \openout1 = `Logbook.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -898,17 +1047,17 @@ Package caption Info: End \AtBeginDocument code.
 ABD: EveryShipout initializing macros
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count134
+\scratchcounter=\count170
 \scratchdimen=\dimen189
 \scratchbox=\box47
-\nofMPsegments=\count135
-\nofMParguments=\count136
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count137
+\nofMPsegments=\count171
+\nofMParguments=\count172
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count173
 \MPscratchDim=\dimen190
-\MPnumerator=\count138
-\makeMPintoPDFobject=\count139
-\everyMPtoPDFconversion=\toks42
+\MPnumerator=\count174
+\makeMPintoPDFobject=\count175
+\everyMPtoPDFconversion=\toks65
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -957,115 +1106,346 @@ e
 File: images/frontpage/flag.jpg Graphic file (type jpg)
 
 <use images/frontpage/flag.jpg>
-Package pdftex.def Info: images/frontpage/flag.jpg used on input line 38.
+Package pdftex.def Info: images/frontpage/flag.jpg used on input line 73.
 (pdftex.def)             Requested size: 1240.54535pt x 844.65561pt.
 
 <images/frontpage/Senate.jpg, id=33, 481.5591pt x 351.9549pt>
 File: images/frontpage/Senate.jpg Graphic file (type jpg)
 
 <use images/frontpage/Senate.jpg>
-Package pdftex.def Info: images/frontpage/Senate.jpg used on input line 45.
-(pdftex.def)             Requested size: 170.71587pt x 128.03552pt.
+Package pdftex.def Info: images/frontpage/Senate.jpg used on input line 80.
+(pdftex.def)             Requested size: 170.71587pt x 124.77032pt.
 
 <images/frontpage/Comey.jpg, id=34, 149.358pt x 99.2508pt>
 File: images/frontpage/Comey.jpg Graphic file (type jpg)
 
 <use images/frontpage/Comey.jpg>
-Package pdftex.def Info: images/frontpage/Comey.jpg used on input line 49.
-(pdftex.def)             Requested size: 170.73022pt x 128.03706pt.
+Package pdftex.def Info: images/frontpage/Comey.jpg used on input line 84.
+(pdftex.def)             Requested size: 170.73022pt x 113.45297pt.
 
 <images/frontpage/Rigged.jpg, id=35, 1027.84pt x 745.78625pt>
 File: images/frontpage/Rigged.jpg Graphic file (type jpg)
 
 <use images/frontpage/Rigged.jpg>
-Package pdftex.def Info: images/frontpage/Rigged.jpg used on input line 67.
-(pdftex.def)             Requested size: 170.7155pt x 128.03375pt.
+Package pdftex.def Info: images/frontpage/Rigged.jpg used on input line 102.
+(pdftex.def)             Requested size: 170.7155pt x 123.86876pt.
 
 <images/frontpage/House.jpg, id=36, 1027.84pt x 700.6175pt>
 File: images/frontpage/House.jpg Graphic file (type jpg)
 
 <use images/frontpage/House.jpg>
-Package pdftex.def Info: images/frontpage/House.jpg used on input line 71.
-(pdftex.def)             Requested size: 170.7155pt x 128.03pt.
+Package pdftex.def Info: images/frontpage/House.jpg used on input line 106.
+(pdftex.def)             Requested size: 170.7155pt x 116.36661pt.
  [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
 s/frontpage/flag.jpg> <./images/frontpage/Senate.jpg> <./images/frontpage/Comey
 .jpg> <./images/frontpage/Rigged.jpg> <./images/frontpage/House.jpg>] (./Logboo
 k.toc)
-\tf@toc=\write4
-\openout4 = `Logbook.toc'.
+\tf@toc=\write5
+\openout5 = `Logbook.toc'.
 
  [2]
 <images/profiles/trump.jpg, id=48, 602.25pt x 401.3394pt>
 <use images/profiles/trump.jpg>
 <images/profiles/clinton.jpg, id=49, 1184.425pt x 845.1575pt>
-<use images/profiles/clinton.jpg> <use images/profiles/trump.jpg>
 <use images/profiles/clinton.jpg>
+<images/profiles/pence.jpg, id=50, 1452.627pt x 1107.8991pt>
+<use images/profiles/pence.jpg>
+<images/profiles/kaine.jpg, id=51, 782.925pt x 439.6425pt>
+<use images/profiles/kaine.jpg> <use images/profiles/trump.jpg>
+<use images/profiles/clinton.jpg> <use images/profiles/pence.jpg>
+<use images/profiles/kaine.jpg>
 File: images/profiles/trump.jpg Graphic file (type jpg)
  <use images/profiles/trump.jpg>
-Package pdftex.def Info: images/profiles/trump.jpg used on input line 100.
-(pdftex.def)             Requested size: 170.71487pt x 128.03929pt.
+Package pdftex.def Info: images/profiles/trump.jpg used on input line 153.
+(pdftex.def)             Requested size: 170.71487pt x 113.76439pt.
 
-Underfull \hbox (badness 1281) in paragraph at lines 100--100
+Underfull \hbox (badness 1281) in paragraph at lines 153--153
 []\OT1/cmr/m/n/10 Bachelor's De-gree in Eco-nomics
  []
 
 File: images/profiles/clinton.jpg Graphic file (type jpg)
 <use images/profiles/clinton.jpg>
-Package pdftex.def Info: images/profiles/clinton.jpg used on input line 100.
-(pdftex.def)             Requested size: 170.71611pt x 128.03197pt.
- [3 <./images/profiles/trump.jpg> <./images/profiles/clinton.jpg>] [4] [5]
-<images/fourier/clinton.jpg, id=59, 1875.005pt x 955.57pt>
+Package pdftex.def Info: images/profiles/clinton.jpg used on input line 153.
+(pdftex.def)             Requested size: 170.71611pt x 121.81607pt.
+File: images/profiles/pence.jpg Graphic file (type jpg)
+ <use images/profiles/pence.jpg>
+Package pdftex.def Info: images/profiles/pence.jpg used on input line 153.
+(pdftex.def)             Requested size: 167.85762pt x 128.02275pt.
+File: images/profiles/kaine.jpg Graphic file (type jpg)
+
+<use images/profiles/kaine.jpg>
+Package pdftex.def Info: images/profiles/kaine.jpg used on input line 153.
+(pdftex.def)             Requested size: 170.71489pt x 95.86296pt.
+ [3 <./images/profiles/trump.jpg> <./images/profiles/clinton.jpg> <./images/pro
+files/pence.jpg> <./images/profiles/kaine.jpg>]
+<images/profiles/johnson.jpg, id=55, 660.70187pt x 413.4431pt>
+<use images/profiles/johnson.jpg>
+<images/profiles/feingold.jpeg, id=56, 189.70876pt x 115.02975pt>
+<use images/profiles/feingold.jpeg>
+<images/profiles/anderson.jpg, id=57, 289.08pt x 192.72pt>
+<use images/profiles/anderson.jpg> <use images/profiles/johnson.jpg>
+<use images/profiles/feingold.jpeg> <use images/profiles/anderson.jpg>
+File: images/profiles/johnson.jpg Graphic file (type jpg)
+
+<use images/profiles/johnson.jpg>
+Package pdftex.def Info: images/profiles/johnson.jpg used on input line 187.
+(pdftex.def)             Requested size: 170.7098pt x 106.82394pt.
+
+Underfull \hbox (badness 1281) in paragraph at lines 187--187
+[]\OT1/cmr/m/n/10 Bachelor's De-gree in Eco-nomics
+ []
+
+File: images/profiles/feingold.jpeg Graphic file (type jpg)
+<use images/profiles/feingold.jpeg>
+Package pdftex.def Info: images/profiles/feingold.jpeg used on input line 187.
+(pdftex.def)             Requested size: 170.71892pt x 103.51527pt.
+File: images/profiles/anderson.jpg Graphic file (type jpg)
+ <use images/profiles/anderson.jpg>
+Package pdftex.def Info: images/profiles/anderson.jpg used on input line 187.
+(pdftex.def)             Requested size: 170.71451pt x 113.80966pt.
+
+Underfull \hbox (badness 5862) in paragraph at lines 187--187
+[]\OT1/cmr/m/n/10 BA in Ge-og-ra-phy from UW-
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 187--187
+\OT1/cmr/m/n/10 Madison and Ap-plied The-ol-ogy
+ []
+
+[4 <./images/profiles/johnson.jpg> <./images/profiles/feingold.jpeg> <./images/
+profiles/anderson.jpg>]
+<images/profiles/theron.jpg, id=61, 144.54pt x 105.996pt>
+<use images/profiles/theron.jpg>
+<images/profiles/pocan.jpg, id=62, 740.0448pt x 454.5783pt>
+<use images/profiles/pocan.jpg> <use images/profiles/theron.jpg>
+<use images/profiles/pocan.jpg>
+File: images/profiles/theron.jpg Graphic file (type jpg)
+ <use images/profiles/theron.jpg>
+Package pdftex.def Info: images/profiles/theron.jpg used on input line 208.
+(pdftex.def)             Requested size: 170.72551pt x 125.19872pt.
+File: images/profiles/pocan.jpg Graphic file (type jpg)
+
+<use images/profiles/pocan.jpg>
+Package pdftex.def Info: images/profiles/pocan.jpg used on input line 208.
+(pdftex.def)             Requested size: 170.71487pt x 104.86293pt.
+ [5 <./images/profiles/theron.jpg> <./images/profiles/pocan.jpg>] <images/artic
+les/pepe0.jpg, id=66, 620.3175pt x 413.545pt>
+File: images/articles/pepe0.jpg Graphic file (type jpg)
+
+<use images/articles/pepe0.jpg>
+Package pdftex.def Info: images/articles/pepe0.jpg used on input line 219.
+(pdftex.def)             Requested size: 170.71562pt x 113.81041pt.
+
+<images/articles/pepe1.jpg, id=67, 803.0pt x 501.875pt>
+File: images/articles/pepe1.jpg Graphic file (type jpg)
+
+<use images/articles/pepe1.jpg>
+Package pdftex.def Info: images/articles/pepe1.jpg used on input line 223.
+(pdftex.def)             Requested size: 170.71794pt x 106.69872pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
+
+ []
+
+[6 <./images/articles/pepe0.jpg> <./images/articles/pepe1.jpg>]
+<images/articles/clinton1.jpg, id=71, 1269.74374pt x 713.66624pt>
+File: images/articles/clinton1.jpg Graphic file (type jpg)
+
+<use images/articles/clinton1.jpg>
+Package pdftex.def Info: images/articles/clinton1.jpg used on input line 236.
+(pdftex.def)             Requested size: 170.71051pt x 95.94875pt.
+
+<images/articles/clinton2.jpg, id=72, 642.4pt x 481.8pt>
+File: images/articles/clinton2.jpg Graphic file (type jpg)
+
+<use images/articles/clinton2.jpg>
+Package pdftex.def Info: images/articles/clinton2.jpg used on input line 240.
+(pdftex.def)             Requested size: 170.7155pt x 128.03662pt.
+
+<images/articles/trump1.jpg, id=73, 772.8875pt x 434.62375pt>
+File: images/articles/trump1.jpg Graphic file (type jpg)
+
+<use images/articles/trump1.jpg>
+Package pdftex.def Info: images/articles/trump1.jpg used on input line 250.
+(pdftex.def)             Requested size: 170.708pt x 95.99553pt.
+
+<images/articles/trump2.jpg, id=74, 1027.84pt x 684.5575pt>
+File: images/articles/trump2.jpg Graphic file (type jpg)
+
+<use images/articles/trump2.jpg>
+Package pdftex.def Info: images/articles/trump2.jpg used on input line 254.
+(pdftex.def)             Requested size: 170.7155pt x 113.69919pt.
+ [7 <./images/articles/clinton1.jpg> <./images/articles/clinton2.jpg> <./images
+/articles/trump1.jpg> <./images/articles/trump2.jpg>] <images/articles/comey1.j
+pg, id=79, 5203.44pt x 3468.96pt>
+File: images/articles/comey1.jpg Graphic file (type jpg)
+
+<use images/articles/comey1.jpg>
+Package pdftex.def Info: images/articles/comey1.jpg used on input line 266.
+(pdftex.def)             Requested size: 170.70569pt x 113.80379pt.
+
+<images/articles/comey2.jpg, id=80, 1184.425pt x 845.1575pt>
+File: images/articles/comey2.jpg Graphic file (type jpg)
+
+<use images/articles/comey2.jpg>
+Package pdftex.def Info: images/articles/comey2.jpg used on input line 270.
+(pdftex.def)             Requested size: 170.71611pt x 121.81607pt.
+ [8 <./images/articles/comey1.jpg> <./images/articles/comey2.jpg>] [9]
+<images/fourier/clinton.jpg, id=87, 1875.005pt x 955.57pt>
 File: images/fourier/clinton.jpg Graphic file (type jpg)
 
 <use images/fourier/clinton.jpg>
-Package pdftex.def Info: images/fourier/clinton.jpg used on input line 121.
+Package pdftex.def Info: images/fourier/clinton.jpg used on input line 286.
 (pdftex.def)             Requested size: 469.75502pt x 239.40224pt.
 
-<images/fourier/clintonlarge.jpg, id=60, 1848.9075pt x 884.30376pt>
+<images/fourier/clintonlarge.jpg, id=88, 1848.9075pt x 884.30376pt>
 File: images/fourier/clintonlarge.jpg Graphic file (type jpg)
 
 <use images/fourier/clintonlarge.jpg>
-Package pdftex.def Info: images/fourier/clintonlarge.jpg used on input line 126
+Package pdftex.def Info: images/fourier/clintonlarge.jpg used on input line 291
 .
 (pdftex.def)             Requested size: 469.75835pt x 170.70464pt.
- [6 <./images/fourier/clinton.jpg> <./images/fourier/clintonlarge.jpg>] [7]
-<images/fourier/trump.jpg, id=71, 1807.75375pt x 917.4275pt>
+ [10 <./images/fourier/clinton.jpg> <./images/fourier/clintonlarge.jpg>] [11]
+<images/fourier/trump.jpg, id=98, 1807.75375pt x 917.4275pt>
 File: images/fourier/trump.jpg Graphic file (type jpg)
 
 <use images/fourier/trump.jpg>
-Package pdftex.def Info: images/fourier/trump.jpg used on input line 166.
+Package pdftex.def Info: images/fourier/trump.jpg used on input line 331.
 (pdftex.def)             Requested size: 469.75664pt x 170.71535pt.
 
-<images/fourier/trumplarge.jpg, id=72, 1897.0875pt x 973.6375pt>
+<images/fourier/trumplarge.jpg, id=99, 1897.0875pt x 973.6375pt>
 File: images/fourier/trumplarge.jpg Graphic file (type jpg)
 
 <use images/fourier/trumplarge.jpg>
-Package pdftex.def Info: images/fourier/trumplarge.jpg used on input line 171.
+Package pdftex.def Info: images/fourier/trumplarge.jpg used on input line 336.
 (pdftex.def)             Requested size: 469.75496pt x 170.71596pt.
- [8 <./images/fourier/trump.jpg> <./images/fourier/trumplarge.jpg>] [9] [10] (.
-/Logbook.aux) ) 
+ [12 <./images/fourier/trump.jpg> <./images/fourier/trumplarge.jpg>] [13]
+\dtldb@seppoll=\toks66
+\dtlkeys@seppoll=\toks67
+\dtlrows@seppoll=\count176
+\dtlcols@seppoll=\count177
+\dtldb@octonepoll=\toks68
+\dtlkeys@octonepoll=\toks69
+\dtlrows@octonepoll=\count178
+\dtlcols@octonepoll=\count179
+\dtldb@octtwopoll=\toks70
+\dtlkeys@octtwopoll=\toks71
+\dtlrows@octtwopoll=\count180
+\dtlcols@octtwopoll=\count181
+ [14] [15]
+<images/cartoons/hacked.jpg, id=113, 2409.0pt x 1706.375pt>
+File: images/cartoons/hacked.jpg Graphic file (type jpg)
+
+<use images/cartoons/hacked.jpg>
+Package pdftex.def Info: images/cartoons/hacked.jpg used on input line 404.
+(pdftex.def)             Requested size: 321.34134pt x 227.61678pt.
+
+<images/cartoons/aisle.jpg, id=114, 501.875pt x 303.1325pt>
+File: images/cartoons/aisle.jpg Graphic file (type jpg)
+
+<use images/cartoons/aisle.jpg>
+Package pdftex.def Info: images/cartoons/aisle.jpg used on input line 405.
+(pdftex.def)             Requested size: 376.86479pt x 227.62634pt.
+ [16 <./images/cartoons/hacked.jpg> <./images/cartoons/aisle.jpg>]
+<images/cartoons/rigged.jpg, id=118, 1027.84pt x 745.78625pt>
+File: images/cartoons/rigged.jpg Graphic file (type jpg)
+
+<use images/cartoons/rigged.jpg>
+Package pdftex.def Info: images/cartoons/rigged.jpg used on input line 406.
+(pdftex.def)             Requested size: 313.70247pt x 227.6181pt.
+ [17 <./images/cartoons/rigged.jpg>] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 448--454
+
+ []
+
+File: images/profiles/clinton.jpg Graphic file (type jpg)
+<use images/profiles/clinton.jpg>
+Package pdftex.def Info: images/profiles/clinton.jpg used on input line 457.
+(pdftex.def)             Requested size: 199.36157pt x 142.2563pt.
+File: images/profiles/pocan.jpg Graphic file (type jpg)
+ <use images/profiles/pocan.jpg>
+Package pdftex.def Info: images/profiles/pocan.jpg used on input line 458.
+(pdftex.def)             Requested size: 231.60219pt x 142.26344pt.
+File: images/profiles/feingold.jpeg Graphic file (type jpg)
+
+<use images/profiles/feingold.jpeg>
+Package pdftex.def Info: images/profiles/feingold.jpeg used on input line 459.
+(pdftex.def)             Requested size: 234.65167pt x 142.28085pt.
+ [19]
+<images/results/electoral.jpg, id=129, 1053.9375pt x 672.5125pt>
+File: images/results/electoral.jpg Graphic file (type jpg)
+
+<use images/results/electoral.jpg>
+Package pdftex.def Info: images/results/electoral.jpg used on input line 465.
+(pdftex.def)             Requested size: 356.72583pt x 227.62505pt.
+ [20 <./images/results/electoral.jpg>]
+[21]
+Overfull \hbox (71.90732pt too wide) in paragraph at lines 491--511
+\OT1/cmr/m/n/10 http://www.slate.com/content/dam/slate/articles/double[]x/doubl
+ex/2015/12/151222[]DX[]Clinton-Praise.jpg.CROP.promo-
+ []
+
+
+Overfull \hbox (7.82945pt too wide) in paragraph at lines 491--511
+\OT1/cmr/m/n/10 http://media.breitbart.com/media/2016/11/bill-clinton-hillary-c
+linton-2016-election-defeat-getty-640x480.jpg 
+ []
+
+
+Overfull \hbox (95.22426pt too wide) in paragraph at lines 491--511
+\OT1/cmr/m/n/10 http://a57.foxnews.com/media2.foxnews.com/BrightCove/6949400940
+01/2016/11/14/0/0/694940094001[]5209416160001[]Clinton-
+ []
+
+
+Overfull \hbox (29.71825pt too wide) in paragraph at lines 491--511
+\OT1/cmr/m/n/10 https://fortunedotcom.files.wordpress.com/2016/10/donald-trump-
+2016-presidential-debate-las-vegas-gettyimages-
+ []
+
+
+Overfull \hbox (237.2021pt too wide) in paragraph at lines 491--511
+\OT1/cmr/m/n/10 http://www.slate.com/content/dam/slate/blogs/future[]tense/2016
+/03/01/in[]apple[]hearings[]fbi[]director[]james[]comey[]says[]he[]asked[]nsa[]
+to[]hack[]syed/513197974-
+ []
+
+
+Overfull \hbox (10.724pt too wide) in paragraph at lines 491--511
+\OT1/cmr/m/n/10 http://media.washtimes.com.s3.amazonaws.com/media/image/2014/07
+/27/7[]272014[]ap9366833150848201.jpg 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--511
+
+ []
+
+[22] (./Logbook.aux) ) 
 Here is how much of TeX's memory you used:
- 15238 strings out of 493014
- 291769 string characters out of 6133351
- 339475 words of memory out of 5000000
- 18490 multiletter control sequences out of 15000+600000
- 6525 words of font info for 24 fonts, out of 8000000 for 9000
+ 17774 strings out of 493014
+ 327921 string characters out of 6133351
+ 411733 words of memory out of 5000000
+ 20927 multiletter control sequences out of 15000+600000
+ 6824 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,17n,67p,415b,605s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7
-.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb>
-Output written on Logbook.pdf (10 pages, 4476849 bytes).
+ 55i,17n,77p,1112b,974s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on Logbook.pdf (22 pages, 12274642 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 167 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 170 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 265 words of extra memory for PDF output out of 10000 (max. 10000000)
 

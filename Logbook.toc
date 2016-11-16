@@ -1,25 +1,33 @@
 \contentsline {section}{\numberline {1}Candidate Bios}{3}
-\contentsline {section}{\numberline {2}Articles}{4}
-\contentsline {subsection}{\numberline {2.1}September}{4}
-\contentsline {subsection}{\numberline {2.2}October}{4}
-\contentsline {subsubsection}{\numberline {2.2.1}October I}{4}
-\contentsline {subsubsection}{\numberline {2.2.2}October II}{4}
-\contentsline {subsection}{\numberline {2.3}November}{4}
-\contentsline {section}{\numberline {3}Fourier Analysis}{5}
-\contentsline {paragraph}{Why Fourier?}{5}
-\contentsline {subsection}{\numberline {3.1}Clinton}{6}
-\contentsline {paragraph}{Analysis}{6}
-\contentsline {subsection}{\numberline {3.2}Trump}{8}
-\contentsline {paragraph}{Analysis}{8}
-\contentsline {section}{\numberline {4}Polls}{10}
-\contentsline {section}{\numberline {5}Political Cartoons}{10}
-\contentsline {section}{\numberline {6}Wisconsin State Journal Endorsements}{10}
-\contentsline {subsection}{\numberline {6.1}President}{10}
-\contentsline {subsection}{\numberline {6.2}Senate}{10}
-\contentsline {subsection}{\numberline {6.3}House}{10}
-\contentsline {section}{\numberline {7}My Endorsements}{10}
-\contentsline {subsection}{\numberline {7.1}President}{10}
-\contentsline {subsection}{\numberline {7.2}Senate}{10}
-\contentsline {subsection}{\numberline {7.3}House}{10}
-\contentsline {section}{\numberline {8}Election Results}{10}
-\contentsline {section}{\numberline {9}Advice}{10}
+\contentsline {section}{\numberline {2}Articles}{6}
+\contentsline {subsection}{\numberline {2.1}September}{6}
+\contentsline {subsubsection}{\numberline {2.1.1}Donald Trump, Pepe the frog, and white supremacists: an explainer}{6}
+\contentsline {paragraph}{That cartoon frog is more sinister than you might realize}{6}
+\contentsline {subsection}{\numberline {2.2}October}{7}
+\contentsline {subsubsection}{\numberline {2.2.1}Clinton says that she has `both a public and private position' on Wall Street: WikiLeaks release}{7}
+\contentsline {paragraph}{She also admitted she was `kind of far removed' from the middle class}{7}
+\contentsline {subsubsection}{\numberline {2.2.2}Trump calls Clinton `a nasty woman'}{7}
+\contentsline {paragraph}{Trump also said no one has more respect for women than him}{7}
+\contentsline {subsection}{\numberline {2.3}November}{8}
+\contentsline {subsubsection}{\numberline {2.3.1}FBI clears Clinton -- again}{8}
+\contentsline {paragraph}{Comey: FBI has not changed conclusions on Clinton}{8}
+\contentsline {section}{\numberline {3}Fourier Analysis}{9}
+\contentsline {paragraph}{Why Fourier?}{9}
+\contentsline {subsection}{\numberline {3.1}Clinton's Fourier Analysis}{10}
+\contentsline {paragraph}{Analysis}{10}
+\contentsline {subsection}{\numberline {3.2}Trump's Fourier Analysis}{12}
+\contentsline {paragraph}{Analysis}{12}
+\contentsline {section}{\numberline {4}Polls}{14}
+\contentsline {paragraph}{Poll Analysis}{15}
+\contentsline {section}{\numberline {5}Political Cartoons}{16}
+\contentsline {paragraph}{Analysis}{17}
+\contentsline {section}{\numberline {6}Wisconsin State Journal Endorsements}{18}
+\contentsline {subsection}{\numberline {6.1}OUR ENDORSEMENT: Hillary Clinton. America must get this right. }{18}
+\contentsline {subsection}{\numberline {6.2}Feingold More Likely to Get Things Done }{18}
+\contentsline {subsection}{\numberline {6.3}Re-elect Paul Ryan and Mark Pocan to Congress }{18}
+\contentsline {section}{\numberline {7}My Endorsements}{19}
+\contentsline {subsection}{\numberline {7.1}Clinton, Feingold, and Pocan. Not for Party, but for Competence.}{19}
+\contentsline {section}{\numberline {8}Election Results}{20}
+\contentsline {section}{\numberline {9}Advice}{21}
+\contentsline {paragraph}{To President Trump}{21}
+\contentsline {section}{\numberline {10}Works Referenced}{22}
