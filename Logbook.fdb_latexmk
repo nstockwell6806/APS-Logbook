@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1479270966 "Logbook.tex" "Logbook.pdf" "Logbook" 1479270967
+["pdflatex"] 1479271371 "Logbook.tex" "Logbook.pdf" "Logbook" 1479271372
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -149,9 +149,9 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1476557108 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "Logbook.aux" 1479270967 3730 312c80aeef2ffd4e88c0ce4d8ca61945 ""
-  "Logbook.tex" 1479270966 29181 674395fa1aee0a3d7d3ed5072eb21cf0 ""
-  "Logbook.toc" 1479270967 2386 bbfcee43eb953bf73cbaf9f67ea8aaef ""
+  "Logbook.aux" 1479271372 3730 312c80aeef2ffd4e88c0ce4d8ca61945 ""
+  "Logbook.tex" 1479271368 29182 efbefb98c86368b59ed5d69891ea0e39 ""
+  "Logbook.toc" 1479271372 2386 bbfcee43eb953bf73cbaf9f67ea8aaef ""
   "images/articles/clinton1.jpg" 1479267028 160323 2b61c1f47906becf8e6a231bb63f8870 ""
   "images/articles/clinton2.jpg" 1479267031 60633 c8f0b7f3693e90dac0d319b8ed75952f ""
   "images/articles/comey1.jpg" 1479267144 3915865 1e8ef25666da066c62bf80f1ccff4418 ""
@@ -186,10 +186,10 @@
   "octobertwo.csv" 1479268126 187 af7d7e3dc5338a397d3d9b6beb154f00 ""
   "september.csv" 1479268126 184 56260325760e76067c528df395d767aa ""
   (generated)
-  "octoberone.csv"
+  "Logbook.log"
+  "octobertwo.csv"
   "september.csv"
   "Logbook.pdf"
-  "Logbook.log"
+  "octoberone.csv"
   "Logbook.aux"
   "Logbook.toc"
-  "octobertwo.csv"
